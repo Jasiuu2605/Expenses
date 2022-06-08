@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Jasiuu2605/Expenses.git/static/css/main.85fc5fad.css",
+    "main.js": "/Jasiuu2605/Expenses.git/static/js/main.226b8645.js",
+    "index.html": "/Jasiuu2605/Expenses.git/index.html",
+    "main.85fc5fad.css.map": "/Jasiuu2605/Expenses.git/static/css/main.85fc5fad.css.map",
+    "main.226b8645.js.map": "/Jasiuu2605/Expenses.git/static/js/main.226b8645.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85fc5fad.css",
+    "static/js/main.226b8645.js"
+  ]
+}
